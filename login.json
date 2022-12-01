@@ -1,0 +1,13 @@
+{
+  "payload": [
+      {
+        "token": "eyjhbgcioijiuzi1niisinr5cci6ikpxvcj9.eyj1bmlxdwvk54lndfi6intcinrva2vuxci6bnvsbcxcilvzdwfyaw9cijp7xcjjrfvzdwfyaw9cijozndcsxcjob21lvxn1yxjpb1wiolwiv2lsbglhbl9gzxjyyxjpxcisxcjdb2rpz29cijpudwxslfwirgvzy3jpy2fvxci6bnvsbh0sxcjqzxjmawxzxci6w3tcimnvzfblcmzpbfwiojesxcjkzxnjugvyzmlsxci6xcjbzg1pbmlzdhjhzg9yxcisxcjdb2rpz29cijpudwxslfwirgvzy3jpy2fvxci6bnvsbh1dlfwirw1wcmvzyxncijpbe1wiq29krw1wcmvzyvwiojisxcjob21lrw1wcmvzyvwiolwitelervjbtsohqsbdqvbjvefmsvpbw4fdg08gu0fciixciknvzglnb1wiom51bgwsxcjezxnjcmljyw9cijpudwxsfv0sxcjdb2rpz29cijowlfwirgvzy3jpy2fvxci6xcjcin0ilcjbcgxpy2fjyw8ioijbuekgrglzdhjpynvpzg9yiiwicm9szsi6ikfkbwluaxn0cmfkb3iilcjuymyioje2njk4otc4otcsimv4cci6mty2otkwmtq5nywiawf0ijoxnjy5odk3odk3fq.sod_esutuvwijwuwugvv0s7eth_vp3ryv-njzh64nfa",
+        "user": {
+            "id": 999,
+            "name": "Lorem Ipsum"
+        }
+      } 
+  ],
+  "code": 200,
+  "message": ""
+}
